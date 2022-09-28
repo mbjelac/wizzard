@@ -1,0 +1,18 @@
+{
+  "name": "Wizzard",
+  "version": "1.0.0",
+  "description": "An indy fantasy RPG focused on magic & inspired by Chip's Challenge",
+  "keywords": [
+    "game",
+    "logic",
+    "puzzle",
+    "wizard",
+    "magic",
+    "fantasy",
+    "rpg"
+  ],
+  "license": "CC-BY-NC-ND-4.0",
+  "dependencies": {
+    "phaser": "3.55.2"
+  }
+}
